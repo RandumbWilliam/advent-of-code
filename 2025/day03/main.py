@@ -80,5 +80,3 @@ if __name__ == "__main__":
     if part == "part2":
         part2(input)
 
-
-
